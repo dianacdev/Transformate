@@ -1,2 +1,2 @@
 # Transformate
-An Ai generative image site, using midjourney/dalle api.
+An Ai generative image site, using openai api.
