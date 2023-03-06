@@ -17,7 +17,7 @@ export const surpriseMePrompts = [
     'a painting of a fox in the style of Starry Night',
     'a bowl of soup that looks like a monster, knitted out of wool',
     'A plush toy robot sitting against a yellow wall',
-    'A synthwave style sunset above the reflecting water of the sea, digital art',
+    'David sculpture, plaster statue, whole body, background European architecture, natural light, ultra-fine, fine, texture, realism,100k cinematic, shadows, megapixel partial Lighting, backlighting, fiber optic, Ominous lighting, Cinematic lighting, studio lighting, Soft lighting, global illumination, volumetric contre- jour, beautiful lighting, Accent lighting, screen space global illumination, ray tracing global illumination, optics, scattering, glow, shadows, harsh, shimmering, ray tracing reflections, lumen reflections, screen space reflections, diffraction grading, chromatic aberration, offset from GB, Scan lines, ray tracing, ambient ray tracing, Anti-aliasing, RTX, FKAA, TXAA, SSAO, shaders, OpenGL-Shaders, GLSL-Shaders, Post Processing, Post Production, Cel shading, Tone mapping, CGI, VFX, SFX, insanely detailed and intricate, hypermaximalist, hyperrealistic, superdetailed, dynamix pose,, shutter speed 1/1000, F/8, White Balance, DOF, Tilt Blur, depth of field, 100k, Ultra HD, HDR - Upscale',
     'Two futuristic towers with a skybridge covered in lush foliage, digital art',
     'A 3D render of a rainbow colored hot air balloon flying above a reflective lake',
     'A comic book cover of a superhero wearing headphones',
@@ -29,7 +29,7 @@ export const surpriseMePrompts = [
     'A modern, sleek Cadillac drives along the Gardiner expressway with downtown Toronto in the background, with a lens flare, 50mm photography',
     'A realistic photograph of a young woman with blue eyes and blonde hair',
     'A man standing in front of a stargate to another dimension',
-    'Spongebob Squarepants in the Blair Witch Project',
+    'Dracula walking down the street of New York City in the 1920s, black and white photography',
     'A velociraptor working at a hotdog stand, lomography',
     'A man walking through the bustling streets of Kowloon at night, lit by many bright neon shop signs, 50mm lens',
     'A BBQ that is alive, in the style of a Pixar animated movie',
@@ -64,5 +64,8 @@ export const surpriseMePrompts = [
     'A serene beach with crystal-clear water and dolphins jumping in the waves',
     'A fairytale forest with hidden paths and talking animals that guide the way',
     'A mystical portal that leads to a magical realm filled with wonder and beauty',
-    'A dreamy world where everything is made of candy and sweets, and the clouds taste like cotton candy'
+    'A dreamy world where everything is made of candy and sweets, and the clouds taste like cotton candy',
+    "realistic lifelike human sized dolls in extravagant cowboy versace clothes in a diner from the 1950's:: hyper realistic photography, photo realism, hyper realistic, perspective, wide-angle shot, epic composition, cinematic still shot, cinematic lighting, dramatic lighting, hyper detail, unreal engine, octane rendering, cinematic, dramatic lighting, backlighting, Diffraction Grading, Chromatic Aberration, GB Displacement, Scan Lines, ray Traced, Ray Tracing Ambient, Anti-Aliasing, FKAA, TXAA, RTX, SSAO, Shaders, OpenGL-Shaders, GLSL-Shaders, Post Processing, Post-Production, Cell Shading, Tone Mapping, CGI, VFX, SFX, insanely detailed and intricate , hyper maximalist , elegant, hyper realistic, super detailed, dynamic pose, photography, volumetric, photorealistic, ultra photo real, ultra-detailed, intricate details, 8K, super detailed, full color, ambient occlusion, volumetric lighting , high contrast, 12k",
+    "Dark grey, Red, halo ODST soldier armor, Silver visor, carrying shotgun, aiming down corridor, flashlight turned on on shotgun, detailed, cinematic, facial symmetry, sharp focus, epic composition, 8k , UHD, natural light, photo realistic, maximum texture, 16k, F Stop 1.8, photoshoot, DSLR , Accent Lighting, intricate details, beautifully color graded, Unreal Engine, Cinematic, Color Grading, Editorial Photography, Photography, Photoshoot, Shot on 70mm lens, insanely detailed and intricate, hypermaximalist, elegant, hyper realistic, super detailed, dynamic pose",
+
   ];
